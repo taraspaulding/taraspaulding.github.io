@@ -1,0 +1,22 @@
+body {
+  background-color: #e0ebeb;
+  color: #0a0f0f;
+  font-family: "Source Sans Pro"
+}
+
+h1 {
+  color: #1f2e2e;
+  font-family: "Staatliches", cursive;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 30px
+}
+h2 {
+  color: #1f2e2e;
+  font-family: "Shadows Into Light", cursive;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 30px
+}
